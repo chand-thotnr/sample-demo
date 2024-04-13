@@ -1,4 +1,4 @@
 # sample-demo
 This is my second repository
 <br>
-Author-chand-thotnr
+Author-chand-thotnr(git name)
